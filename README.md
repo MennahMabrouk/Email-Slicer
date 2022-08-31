@@ -3,7 +3,7 @@
 A small function that will help you slice your E-mail adress
 
 As following:
-"    " @ "    " . "    "
+" mennah   " @ " gmail   " . " com   "
 
 Have fun coding(●'◡'●)
 
